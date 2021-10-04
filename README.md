@@ -17,3 +17,11 @@ This, as you can see, use docker. If you don't use docker, then:
 1. Install node. The node version used at the time of development is: `15.2.1`.
 2. Install dependencies: `npm install`
 3. Run server: `node index.js`
+
+####
+
+Once your server is up you can access the GraphiQL at:
+
+- [http://localhost:4000/graphql_api/sessions](http://localhost:4000/graphql_api/sessions)
+- [http://localhost:4000/graphql_api/reports](http://localhost:4000/graphql_api/reports)
+- [http://localhost:4000/graphql_api/business](http://localhost:4000/graphql_api/business)
